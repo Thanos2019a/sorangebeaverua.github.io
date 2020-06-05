@@ -43,9 +43,9 @@ body{
 
 .box_B_1{
    position: absolute;
-   width: 170px;
+   width: 130px;
    height: 250px;
-   margin-left: 3%;
+   margin-left: 7%;
    top: 0%;}
 .im_B_1{
    position: absolute;
@@ -53,16 +53,16 @@ body{
    border-radius: 50%;}
 .tx_B_1{
 	position: absolute;
-	font-size: 55px;
+	font-size: 40px;
 	top: 110px;
     color: #424242;
     font-family: Comic Sans MS, Comic Sans, cursive}
 
 .box_B_2{
    position: absolute;
-   width: 170px;
+   width: 130px;
    height: 250px;
-   margin-left: 28%;
+   margin-left: 29%;
    top: 0%;}
 .im_B_2{
    position: absolute;
@@ -70,14 +70,14 @@ body{
    border-radius: 50%;}
 .tx_B_2{
 	position: absolute;
-	font-size: 55px;
+	font-size: 40px;
 	top: 110px;
 	color: #424242;
     font-family: Comic Sans MS, Comic Sans, cursive}
 
 .box_B_3{
    position: absolute;
-   width: 170px;
+   width: 130px;
    height: 250px;
    margin-left: 53%;
    top: 0%;}
@@ -87,14 +87,14 @@ body{
    border-radius: 50%;}
 .tx_B_3{
 	position: absolute;
-	font-size: 55px;
+	font-size: 40px;
 	top: 110px;
 	color: #424242;
     font-family: Comic Sans MS, Comic Sans, cursive}
 
 .box_B_4{
    position: absolute;
-   width: 170px;
+   width: 130px;
    height: 250px;
    margin-left: 78%;
    top: 0%;}
@@ -104,17 +104,17 @@ body{
    border-radius: 50%;}
 .tx_B_4{
 	position: absolute;
-	font-size: 55px;
+	font-size: 40px;
 	top: 110px;
 	color: #424242;
     font-family: Comic Sans MS, Comic Sans, cursive}
 
 .info_1{
 	position: absolute;
-	width: 80%;
+	width: 70%;
 	height: 1500px;
 	top: 2100px;
-	left: 10%;}
+	left: 15%;}
 .im_inf_1{
 	position: absolute;
 	border-radius: 50%;
@@ -124,7 +124,7 @@ body{
 	position: absolute;
 	width: 100%;
 	margin-top: 550px;
-	font-size: 58px;
+	font-size: 45px;
 	color: #424242;
     font-family: Comic Sans MS, Comic Sans, cursive;
     text-align: center;}
